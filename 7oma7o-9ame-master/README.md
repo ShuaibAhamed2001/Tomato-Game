@@ -1,6 +1,6 @@
-# 7oma7o-9ame
+# Tomato-Game
 
-Welcome to the 7oma7o-9ame! This is a simple React-based web application where players solve mathematical equations to uncover hidden numbers within tomatoes. The game challenges players to find the hidden numbers within a certain time limit while also managing their heart count.
+Welcome to the Tomato-quiz Game! This is a simple React-based web application where players solve mathematical equations to uncover hidden numbers within tomatoes. The game challenges players to find the hidden numbers within a certain time limit while also managing their heart count.
 
 ## Features
 
@@ -52,9 +52,7 @@ npm start
 - View the high score board by clicking on the "Scoreboard" button.
 - Logout by clicking on the "Logout" button.
 
-## Credits
 
-- This project was created by @theCodeMonster1.
 
 ## License
 
