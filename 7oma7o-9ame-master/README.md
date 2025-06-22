@@ -14,7 +14,7 @@ Welcome to the Tomato-quiz Game! This is a simple React-based web application wh
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/thecodemonster1/tomato-game.git # Project Cloning
+https://github.com/ShuaibAhamed2001/Tomato-Game.git# Project Cloning
 cd tomato-game # Navigating to project folder
 ```
 
